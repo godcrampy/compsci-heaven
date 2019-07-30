@@ -7,9 +7,24 @@ module.exports = {
   },
   module: {
     rules: [{
-      test: /\.scss$/,
-      use: [MiniCssExtractPlugin.loader, "css-loader", "sass-loader"]
-    }]
+        test: /\.scss$/,
+        use: [MiniCssExtractPlugin.loader, "css-loader", "sass-loader"]
+      },
+      {
+        test: /\.html$/,
+        use: ["html-loader"]
+      },
+      {
+        test: /\.(jpg|jpeg|png|gif|svg)/,
+        use: [{
+          loader: "file-loader",
+          options: {
+            name: "image-[hash].[ext]",
+            outputPath: "img"
+          }
+        }]
+      }
+    ]
   },
   plugins: [
     new MiniCssExtractPlugin({
