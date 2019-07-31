@@ -1,4 +1,4 @@
-import "./styles/main.scss";
+import "./sass/main.scss";
 import {
   data
 } from "./app/data";
