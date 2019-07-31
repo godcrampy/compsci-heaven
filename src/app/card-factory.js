@@ -6,7 +6,7 @@ export function cardFactory(title, subtitle, link) {
   card.classList.add("card");
   card.classList.add("card-body");
 
-  let cardTitle = document.createElement("h4")
+  let cardTitle = document.createElement("h4");
   cardTitle.classList.add("card-title");
   cardTitle.innerText = title;
 
@@ -15,9 +15,9 @@ export function cardFactory(title, subtitle, link) {
   cardSub.classList.add("text-muted");
   cardSub.innerText = subtitle;
 
-  let downloadButton = document.createElement("a")
+  let downloadButton = document.createElement("a");
   downloadButton.classList.add("card-link");
-  downloadButton.setAttribute("href", link)
+  downloadButton.setAttribute("href", link);
   downloadButton.innerText = "Download";
 
   card.appendChild(cardTitle);

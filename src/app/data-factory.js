@@ -4,5 +4,5 @@ export function dataFactory(title, subtitle, subject, link) {
     subtitle: subtitle,
     subject: subject,
     link: link
-  }
+  };
 }
