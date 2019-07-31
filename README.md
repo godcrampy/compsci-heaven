@@ -1,7 +1,7 @@
 # CompSci Heaven
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://compsci-heaven.netlify.com/) 
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/godcrampy/compsci-heaven/blob/master/LICENSE)
 
 Free Resources for people who love Computers. Hosted [here](https://compsci-heaven.netlify.com/).
 
@@ -39,14 +39,10 @@ Use ```$ eslint /src``` for checking syntax and style.
 * [ESLint](https://eslint.org/) - Linting
 * [Bootstrap](https://getbootstrap.com/) - CSS Library
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Authors
 
 * **Sahil Bondre**- [godcrampy](https://github.com/godcrampy)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/godcrampy/compsci-heaven/blob/master/LICENSE) file for details
