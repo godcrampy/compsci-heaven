@@ -15,11 +15,11 @@ module.exports = {
         use: ["html-loader"]
       },
       {
-        test: /\.(jpg|jpeg|png|gif|svg|pdf)$/,
+        test: /\.(jpg|jpeg|png|gif|svg|ico)$/,
         use: [{
           loader: "file-loader",
           options: {
-            name: "asset-[hash].[ext]",
+            name: "image-[hash].[ext]",
             outputPath: "img"
           }
         }]
