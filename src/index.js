@@ -23,3 +23,4 @@ createSection("db");
 createSection("java");
 createSection("py");
 createSection("linux");
+createSection("code");
