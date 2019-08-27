@@ -12,7 +12,7 @@ export const data = [
   // Computer Architecture
   dataFactory("Computer Organization and Design", "David A. Patterson, John L. Hennessy", "ca", "https://github.com/godcrampy/compsci-heaven-serve/raw/master/computer-architecture/(The%20Morgan%20Kaufmann%20Series%20in%20Computer%20Architecture%20and%20Design)%20David%20A.%20Patterson%2C%20John%20L.%20Hennessy%20-%20Computer%20Organization%20and%20Design%2C%20Third%20Edition_%20The%20Hardware_Software%20Interface%2C%20Third%20Edition-.pdf"),
   // Javascript
-  dataFactory("Javascript Notes for Professionals", "Notes for Professionals", "js", "https://github.com/godcrampy/compsci-heaven-serve/blob/master/javascript/JavaScriptNotesForProfessionals.pdf"),
+  dataFactory("Javascript Notes for Professionals", "Notes for Professionals", "js", "https://github.com/godcrampy/compsci-heaven-serve/raw/master/javascript/JavaScriptNotesForProfessionals.pdf"),
   dataFactory("NodeJS Notes for Professionals", "Notes for Professionals", "js", "https://github.com/godcrampy/compsci-heaven-serve/raw/master/javascript/NodeJSNotesForProfessionals.pdf "),
   dataFactory("Typescript Notes for Professionals", "Notes for Professionals", "js", "https://github.com/godcrampy/compsci-heaven-serve/raw/master/javascript/TypeScriptNotesForProfessionals.pdf"),
   // C/CPP
