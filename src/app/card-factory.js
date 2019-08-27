@@ -1,6 +1,8 @@
 export function cardFactory(title, subtitle, link) {
   let wrapper = document.createElement("div");
-  wrapper.classList.add("col-sm-3");
+  wrapper.classList.add("col-12");
+  wrapper.classList.add("col-sm-6");
+  wrapper.classList.add("col-lg-3");
 
   let card = document.createElement("div");
   card.classList.add("card");
