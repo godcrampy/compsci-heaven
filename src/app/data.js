@@ -17,6 +17,8 @@ export const data = [
   dataFactory("Typescript Notes for Professionals", "Notes for Professionals", "js", "https://github.com/godcrampy/compsci-heaven-serve/raw/master/javascript/TypeScriptNotesForProfessionals.pdf"),
   // C/CPP
   dataFactory("C Notes for Professionals", "Notes for Professionals", "cpp", "https://github.com/godcrampy/compsci-heaven-serve/raw/master/c-c%2B%2B/CNotesForProfessionals.pdf"),
+  dataFactory("A Tour of C++", "Bjarne Stroustrup", "cpp", "https://github.com/godcrampy/compsci-heaven-serve/raw/master/c-c%2B%2B/Bjarne%20Stroustrup%20-%20A%20Tour%20of%20C%2B%2B-Addison-Wesley%20Professional%20(2018).pdf"),
+  dataFactory("Accelerated C++", "Andrew Koenig, Barbara Moo", "cpp", "https://github.com/godcrampy/compsci-heaven-serve/raw/master/c-c%2B%2B/Andrew%20Koenig%2C%20Barbara%20E.%20Moo%20-%20Accelerated%20C%2B%2B_%20Practical%20Programming%20by%20Example-Addison-Wesley%20Professional%20(2000).pdf"),
   dataFactory("C++ Notes for Professionals", "Notes for Professionals", "cpp", "https://github.com/godcrampy/compsci-heaven-serve/raw/master/c-c%2B%2B/CPlusPlusNotesForProfessionals.pdf"),
   dataFactory("C Programming Language", "Brian W. Kernighan, Dennis M. Ritchie", "cpp", "https://github.com/godcrampy/compsci-heaven-serve/raw/master/c-c%2B%2B/Brian%20W.%20Kernighan%2C%20Dennis%20M.%20Ritchie%20-%20C%20Programming%20Language%20-Prentice%20Hall%20(1988).djvu"),
   dataFactory("The C++ Programming Language", "Bjarne Stroustrup", "cpp", "https://github.com/godcrampy/compsci-heaven-serve/raw/master/c-c%2B%2B/Bjarne%20Stroustrup%20-%20The%20C%2B%2B%20programming%20language-Addison-Wesley%20(1997).pdf"),
