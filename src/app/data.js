@@ -54,6 +54,6 @@ export const data = [
   dataFactory("Refactoring: Improving the Design of Existing Code", "Martin Fowler", "code", "https://github.com/godcrampy/compsci-heaven-serve/raw/master/code-quality/Martin%20Fowler%2C%20Kent%20Beck%2C%20John%20Brant%2C%20William%20Opdyke%2C%20Don%20Roberts%20-%20Refactoring%20-%20Improving%20the%20Design%20of%20Existing%20Code-Addison-Wesley%20Professional%20(1999).pdf"),
   dataFactory("Code Complete", "Steve McConnell", "code", "https://github.com/godcrampy/compsci-heaven-serve/raw/master/code-quality/McConnell%20S.C.%20-%20Code%20complete%20(2003).pdf"),
   // Interviews
-  dataFactory("Cracking the Coding Interview", "Gayle Laakmann McDowell", "interviews", "https://github.com/godcrampy/compsci-heaven-serve/raw/master/interviews/Gayle%20Laakmann%20McDowell%20-%20Cracking%20the%20Coding%20Interview_%20150%20Programming%20Questions%20and%20Solutions-CareerCup%20(2011).pdf"),
+  dataFactory("Cracking the Coding Interview", "Gayle Laakmann McDowell", "interviews", "https://github.com/godcrampy/compsci-heaven-serve/raw/master/interviews/Gayle%20Laakmann%20McDowell%20-%20Cracking%20the%20Coding%20Interview_%20189%20Programming%20Questions%20and%20Solutions-CareerCup%20(2015).pdf"),
   dataFactory("Programming Interviews Exposed", "John Mongan, Noah Kindler, Eric Giguere", "interviews", "https://github.com/godcrampy/compsci-heaven-serve/raw/master/interviews/John%20Mongan%2C%20Noah%20Kindler%2C%20Eric%20Giguere%20-%20Programming%20Interviews%20Exposed_%20Secrets%20to%20Landing%20Your%20Next%20Job-Wrox%20(2012).pdf"),
 ];
